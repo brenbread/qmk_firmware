@@ -30,6 +30,8 @@
 #define RGBLIGHT_EFFECT_ALTERNATING
 #define RGBLIGHT_EFFECT_TWINKLE
 
+/* Enable Scroll Lock blink effect */
+#define SCROLL_LOCK_BLINK_EFFECT
 
 /*
  * Feature disable options
