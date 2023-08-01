@@ -37,3 +37,6 @@
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+/* Enable Scroll Lock blink effect */
+#define SCROLL_LOCK_BLINK_EFFECT
